@@ -13,7 +13,7 @@ focus_tree = { #国策树的main
             add = 20
             #国策树优先度，注意原版通用国策的优先度为4
             tag = NEV 
-            #国家id，标识这个国策在哪个国家启用
+            #国家id，标识这个国策在哪个国家启用 11111
         }
     }
     default = no 
@@ -70,7 +70,7 @@ focus_tree = { #国策树的main
                 long_name = NEV_FIRST_BROWN_TEAM_long
                 #长名（鼠标停留在政党名称上显示的名字）= 政党本地化指针_long
                 name = NEV_FIRST_BROWN_TEAM
-                #短名（直接显示在国家页面的政党名称）= 政党本地化指针
+                #短名（直接显示在国家页面的政党名称）= 政党本地化指针 111111
             }
             set_party_name = {#设置政党名称
                 ideology = reactionism
